@@ -1,6 +1,6 @@
 'use strict';
 
 exports.commands = [
-  require('./commands/fork').apps,
-  require('./commands/fork').root
+  require('./commands/copy').apps,
+  require('./commands/copy').root
 ];
