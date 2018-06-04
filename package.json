@@ -7,6 +7,11 @@
     "type": "git",
     "url": "https://github.com/keyme/heroku-copy.git"
   },
+  "files": [
+    "lib/apps.js",
+    "lib/addons.js",
+    "commands/copy.js"
+  ],
   "keywords": [
     "heroku-plugin"
   ],
